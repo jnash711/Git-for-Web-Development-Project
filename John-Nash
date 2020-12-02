@@ -1,0 +1,31 @@
+https://codepen.io/jnash711/pen/eYdNaXm?editors=1100 
+1. What is Semantic HTML? -Tags with specific names that lets the browser know it's contents. 
+2. What is HTML used for? -HTML is what is used to display text on a webpage. 
+3. What is an attribute and where do we put it? -An attribute is used to modify the function of a tag, and is placed inside the opening tag. 
+4. What is the h1 tag used for? How many times should I use it on a page? -It is used to signal the main heading on a webpage, and can be used as much as you'd like. 
+5. Name two tags that have required attributes -The anchor tag, and the img tag. 
+6. What do we put in the head of our HTML document? -Everything we want the browser to know, like the language, a link to the stylesheet, etc. 
+7. What is an id? -An id allows you to pinpoint one group of text, and style just that, separately. 
+8. What elements can I add an id to? -You can add an ID to anything 
+9. How many times can I use the same id on a page? - You can only use one ID once. 
+10. What is a class? -A class allows you to specify one group of material, so when you go to style it, it can directly change what you put a class around. 
+11. What elements can I add a class to? - You can add a class to any element. 
+12. How many times can I use the same class on a page? - As much as you'd like. 
+13. How do I get my link to open in a new tab? - target="_blank" 
+14. What is the alt attribute in the image tag used for? - It lets the user provide a description of the picture, for those who are visually impaired. 
+15. How do I reference an id? -#idname 
+16. What is the difference between a section and a div - A section is semantic, so it lets the browser know it's a different part, but a div creates a new line for the content to be on. 
+17. What is CSS used for? - To style the contents in html. 
+18. How to we select an element? Example - every h2 on the page -h2{} 
+19. What is the difference between a class and an id? - Give me an example of when I might use each one - You might use a class to to style only the pictures on a page, but use an id, to style maybe only one picture specifically. 
+20. How do we select classes in CSS? -classname.{} 
+21. How do we select a p element with a single class of “human””? - human.{} 
+22. What is a parent child selector? When would this be useful? - When we only want to style one tag inside of the header, such as the nav. 
+23. How do you select all links within a div with the class of sidebar? div.sidebar{} 
+24. What is a pseudo selector? - Selector that selects elements that are in a specific state. 
+25. What do we use the change the spacing between lines? - Line height 
+26. What do we use to change the spacing between letters? - letter-spacing 
+27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? - text-transform: upper or lowercase or capitialize 
+28. How do I add a 1px border around my div that is dotted and black? border: 1px, solid, black; 
+29. How do I select everything on the page? - * 
+30. How do I write a comment in CSS? - /* 31. How do I find out what file I am in, when I am using the command line? - ls 32. Using the command line - how do I see a list of files/folders in my current folder? - ls 33. How do I remove a file via the command line? Why do I have to be careful with this? - rm 34. Why should I use version control? - To keep your version of code seperate. 35. How often should I commit to github? - Every 20 minutes 36. What is the command we would use to push our repo up to github? - git push origin -u "branch-name" 37. Walk me through Lambda's git flow. - First you fork, then you copy link to clipboard, open your directory and cd into your preferred folder, git clone (link),cd back into the folder, git checkout -b to create a branch, then from there you commit your changes regularly.
